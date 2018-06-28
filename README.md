@@ -40,7 +40,7 @@ void turn(boolean direction, int speed) - turns AYSE left if input direction is 
 set speed(1 for 25%,2 for 50%,3 for 75%, or 4for 100%) percentage. Check your battery voltage before setting to max as
 their is no built-in safety and your motors may become damaged.
 
-In Progress:
+<h2>In Progress:</h2>
 
 Stable autonomous build. Currently, I can set autonomous mode by pressing the Left and right buttons at the same time. 
 This records the MOSS's current position and when the L and R buttons are pressed again saves the end position. AYSE will
